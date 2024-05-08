@@ -4,7 +4,7 @@
 <h2>Programming Projects:</h2>
 
 - <b>Cryptography</b>
-  - [Creating My Own Hashing Program](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating My Own Hashing Program](https://github.com/wtpreston/homemade-hashing)
 
 <h2>TryHackMe Breakdowns:</h2>
 
