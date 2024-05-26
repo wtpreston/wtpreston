@@ -6,7 +6,7 @@
 - <b>Cryptography</b>
   - [Creating My Own Hashing Program](https://github.com/wtpreston/homemade-hashing)
 
-<h2>TryHackMe Breakdowns:</h2>
+<h2>Breakdowns/Explanations:</h2>
 
 - [TryHackMe Example Breakdown 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [TryHackMe Example Breakdown 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -21,21 +21,4 @@ Replace this placeholder image
 
 
 <h2> What am I learning about? </h2>
-My current focus is ...
-
-<h2> Certifications: </h2>
-Link certifications here
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is Cryptography, learning about different cipher suites and encryption schemes!
