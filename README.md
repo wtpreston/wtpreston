@@ -8,7 +8,7 @@
 
 <h2>Breakdowns/Explanations:</h2>
 
-- [TryHackMe Example Breakdown 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Denial of Service Breakdown](https://github.com/wtpreston/Denial-of-Service)
 - [TryHackMe Example Breakdown 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [TryHackMe Example Breakdown 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
