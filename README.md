@@ -9,15 +9,13 @@
 <h2>Breakdowns/Explanations:</h2>
 
 - [Denial of Service Breakdown](https://github.com/wtpreston/Denial-of-Service)
-- [TryHackMe Example Breakdown 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [TryHackMe Example Breakdown 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <h2>  Connections: </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/
-Replace this placeholder image
+[linkedin]: https://www.linkedin.com/in/elwood-preston-032a28350/
+
 
 
 <h2> What am I learning about? </h2>
